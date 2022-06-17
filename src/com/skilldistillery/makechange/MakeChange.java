@@ -38,5 +38,3 @@ public class MakeChange {
 		}
 	}
 }
-
-//To turn in a project, you must push it to GitHub. You must include a README.md that describes how to run your program.
