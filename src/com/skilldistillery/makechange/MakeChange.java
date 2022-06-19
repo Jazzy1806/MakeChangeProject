@@ -3,7 +3,7 @@ package com.skilldistillery.makechange;
 import java.util.Scanner;
 
 public class MakeChange {
-
+//Test- did this commit?
 	static Scanner scan = new Scanner(System.in);
 	public static void main(String[] args) {
 		System.out.print("What is the price of the item? ");
